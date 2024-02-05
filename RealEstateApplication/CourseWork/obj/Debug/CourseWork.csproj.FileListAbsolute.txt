@@ -1,0 +1,17 @@
+C:\Users\daria\source\repos\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\daria\source\repos\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\daria\source\repos\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.FilterWindow.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.MainForm.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.PropertiesManagmentForm.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.QueryForm.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.StatisticWindow.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.AnnualSalesReportForm.resources
+C:\Users\daria\source\repos\CourseWork\obj\Debug\CourseWork.MonthSalesReportForm.resources
